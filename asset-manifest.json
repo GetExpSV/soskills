@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GetExpSV/soskills/static/css/main.338a64f6.chunk.css",
+    "main.js": "/GetExpSV/soskills/static/js/main.a1215d19.chunk.js",
+    "main.js.map": "/GetExpSV/soskills/static/js/main.a1215d19.chunk.js.map",
+    "runtime-main.js": "/GetExpSV/soskills/static/js/runtime-main.4f1e19c1.js",
+    "runtime-main.js.map": "/GetExpSV/soskills/static/js/runtime-main.4f1e19c1.js.map",
+    "static/js/2.39dfee60.chunk.js": "/GetExpSV/soskills/static/js/2.39dfee60.chunk.js",
+    "static/js/2.39dfee60.chunk.js.map": "/GetExpSV/soskills/static/js/2.39dfee60.chunk.js.map",
+    "static/js/3.87d5259e.chunk.js": "/GetExpSV/soskills/static/js/3.87d5259e.chunk.js",
+    "static/js/3.87d5259e.chunk.js.map": "/GetExpSV/soskills/static/js/3.87d5259e.chunk.js.map",
+    "index.html": "/GetExpSV/soskills/index.html",
+    "static/css/main.338a64f6.chunk.css.map": "/GetExpSV/soskills/static/css/main.338a64f6.chunk.css.map",
+    "static/js/2.39dfee60.chunk.js.LICENSE.txt": "/GetExpSV/soskills/static/js/2.39dfee60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1e19c1.js",
+    "static/js/2.39dfee60.chunk.js",
+    "static/css/main.338a64f6.chunk.css",
+    "static/js/main.a1215d19.chunk.js"
+  ]
+}
