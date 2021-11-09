@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/soskills/static/css/main.0442d64c.chunk.css",
+    "main.css": "/soskills/static/css/main.4b26e6bf.chunk.css",
     "main.js": "/soskills/static/js/main.006ded9d.chunk.js",
     "main.js.map": "/soskills/static/js/main.006ded9d.chunk.js.map",
     "runtime-main.js": "/soskills/static/js/runtime-main.e039656c.js",
@@ -10,13 +10,13 @@
     "static/js/3.236d237f.chunk.js": "/soskills/static/js/3.236d237f.chunk.js",
     "static/js/3.236d237f.chunk.js.map": "/soskills/static/js/3.236d237f.chunk.js.map",
     "index.html": "/soskills/index.html",
-    "static/css/main.0442d64c.chunk.css.map": "/soskills/static/css/main.0442d64c.chunk.css.map",
+    "static/css/main.4b26e6bf.chunk.css.map": "/soskills/static/css/main.4b26e6bf.chunk.css.map",
     "static/js/2.626e5d2c.chunk.js.LICENSE.txt": "/soskills/static/js/2.626e5d2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e039656c.js",
     "static/js/2.626e5d2c.chunk.js",
-    "static/css/main.0442d64c.chunk.css",
+    "static/css/main.4b26e6bf.chunk.css",
     "static/js/main.006ded9d.chunk.js"
   ]
 }
