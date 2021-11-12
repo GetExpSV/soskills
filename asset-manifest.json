@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/soskills/static/css/main.31ae556a.chunk.css",
-    "main.js": "/soskills/static/js/main.b8641669.chunk.js",
-    "main.js.map": "/soskills/static/js/main.b8641669.chunk.js.map",
+    "main.css": "/soskills/static/css/main.e0083bc9.chunk.css",
+    "main.js": "/soskills/static/js/main.0051b12b.chunk.js",
+    "main.js.map": "/soskills/static/js/main.0051b12b.chunk.js.map",
     "runtime-main.js": "/soskills/static/js/runtime-main.e039656c.js",
     "runtime-main.js.map": "/soskills/static/js/runtime-main.e039656c.js.map",
     "static/js/2.626e5d2c.chunk.js": "/soskills/static/js/2.626e5d2c.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.236d237f.chunk.js": "/soskills/static/js/3.236d237f.chunk.js",
     "static/js/3.236d237f.chunk.js.map": "/soskills/static/js/3.236d237f.chunk.js.map",
     "index.html": "/soskills/index.html",
-    "static/css/main.31ae556a.chunk.css.map": "/soskills/static/css/main.31ae556a.chunk.css.map",
+    "static/css/main.e0083bc9.chunk.css.map": "/soskills/static/css/main.e0083bc9.chunk.css.map",
     "static/js/2.626e5d2c.chunk.js.LICENSE.txt": "/soskills/static/js/2.626e5d2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e039656c.js",
     "static/js/2.626e5d2c.chunk.js",
-    "static/css/main.31ae556a.chunk.css",
-    "static/js/main.b8641669.chunk.js"
+    "static/css/main.e0083bc9.chunk.css",
+    "static/js/main.0051b12b.chunk.js"
   ]
 }
